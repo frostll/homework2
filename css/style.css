@@ -1,7 +1,7 @@
 body {
     background-color: #000000;
     color: #ffffff;
-    font-family: 'Lucida Grande', Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
   }
   
 h1 {
@@ -33,7 +33,7 @@ img {
 }
 
 div {
-  min-height: 150px;
+  height: 150px;
 }
 
 #intro {
@@ -65,7 +65,7 @@ div {
   padding: 25px;
 }
 
-footer {
+footer p {
   text-align: right;
   padding-right: 10px;
   padding-bottom: 10px;
